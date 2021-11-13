@@ -1,3 +1,3 @@
-# SanberCode-Project
-Data_Negara_HELP Data Science Project
-pembuatan aplikasi ATM dengan menggunakan bahasa pemrograman python
+# PROGATE X KABAMAFIKOM PYTHON PROJECT
+ATM Project dengan python
+Membuat aplikasi ATM sederhana dengan menggunakan bahasa pemrograman python
